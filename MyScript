@@ -1,0 +1,7 @@
+#!/Users/u387849/.sdkman/candidates/java/14.0.0.j9-adpt/bin/java --source 14
+
+public class MyScript {
+    public static void main(String[] args) {
+        System.out.println(14);
+    }
+}
