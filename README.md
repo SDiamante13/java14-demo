@@ -33,6 +33,8 @@ JDK 14
 ### Helpful NullPointerException messages
 JDK 14
 
+Must add `-XX:+ShowCodeDetailsInExceptionMessages` to VMOptions of configuration
+
 ### var keyword
 JDK 11
 
